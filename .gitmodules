@@ -1,0 +1,3 @@
+[submodule "roles/ack-grep"]
+	path = roles/ack-grep
+	url = git@github.com:ericcrosson/role-ack-grep.git

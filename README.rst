@@ -11,7 +11,7 @@ Installation
 
 To provision :code:`localhost`, clone this repo and run the provided script::
 
-    git clone https://github.com/ericcrosson/ansible-ack-grep
+    git clone --recursive https://github.com/ericcrosson/ansible-ack-grep
     cd ansible-ack-grep
     ./run.sh
 
