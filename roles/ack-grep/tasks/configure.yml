@@ -1,9 +1,0 @@
----
-# install ack-grep wrapper script in user's $HOME/bin directory
-- name: install ack-grep wrapper script
-  copy:
-    src: files/ack
-    dest: "{{ ansible_env.HOME }}/bin/ack"
-    mode: 0755
-
-# TODO: ensure $HOME/bin directory is in his path

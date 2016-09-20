@@ -1,7 +1,0 @@
----
-# tasks file for ack-grep
-- include: install.yml
-  become: yes
-  become_user: root
-
-- include: configure.yml
