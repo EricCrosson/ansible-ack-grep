@@ -4,7 +4,7 @@ Overview
 This repository provides an ansible role to install the useful ack defaults
 described here_.
 
-.. _here: shuttlethread.com/blog/useful-ack-defaults
+.. _here: http://shuttlethread.com/blog/useful-ack-defaults
 
 Installation
 ------------
@@ -28,4 +28,4 @@ Acknowledgements
 
 Thanks to Jamie Lentin for his initial post_ on shuttlethread.com.
 
-.. _post: shuttlethread.com/blog/useful-ack-defaults
+.. _post: http://shuttlethread.com/blog/useful-ack-defaults

@@ -3,7 +3,7 @@ Ack-Grep
 
 This role installs sensible ack defaults described by shuttlethread_.
 
-.. _shuttlethread: shuttlethread.com/blog/useful-ack-defaults
+.. _shuttlethread: http://shuttlethread.com/blog/useful-ack-defaults
 
 Example Playbook
 ----------------
