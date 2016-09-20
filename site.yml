@@ -1,0 +1,5 @@
+---
+# Playbook to invoke ack-grep role
+- hosts: "{{ target }}"
+  roles:
+    - ack-grep
